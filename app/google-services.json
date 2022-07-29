@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "203703592134",
+    "project_id": "seoulhotplace-520c5",
+    "storage_bucket": "seoulhotplace-520c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203703592134:android:759cae9f4ad9268ba663c7",
+        "android_client_info": {
+          "package_name": "com.example.seoulhotplace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203703592134-nohd1ao1hk1us8g16bms88jno0nbbrmm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs7tqPPkCBiPs2UHp7Ys7pJOBEJlNQPYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203703592134-nohd1ao1hk1us8g16bms88jno0nbbrmm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
